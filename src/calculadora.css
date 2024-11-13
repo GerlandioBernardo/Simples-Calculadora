@@ -1,0 +1,62 @@
+main{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+#resultado{
+    background-color: rgb(168, 164, 164); 
+    width: 279px;
+    height: 90px;
+    text-align: end;
+}
+#localResultado{
+    padding-top: 32px;
+    padding-right: 10px;
+    font-size: 30px;
+    color: white;
+}
+.button{
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+#ac{
+    background-color: white;
+    width: 209px;
+    height: 54px;
+}
+.operacoes{
+    background-color: blue;
+    width: 70px;
+    height: 55px;
+    border: none;
+    outline: none;
+    border-top: 0.2px solid black;
+    color: white;
+    cursor: pointer;
+}
+.tamanho{
+    background-color: white;
+    width: 70px;
+    height: 55px;
+    border-top: 0.2px solid black;
+    border-right: 0.2px solid black;
+    
+}
+#num0{
+    background-color: white;
+    width: 140px;
+    height: 55px;
+    border-top: 0.2px solid black;
+    border-right: 0.2px solid black;
+}
+#ponto{
+    background-color: white;
+    width: 70px;
+    height: 55px;
+    border-top: 0.2px solid black;
+    border-right: 0.2px solid black;
+}
+#divisao{
+    border-left: 0.2px solid black;
+}
